@@ -1,0 +1,7 @@
+// Create TypeScript app
+
+npx create-next-app@latest ./ --ts
+
+// Go to the sanity website to copy cmd
+npm install -g @sanity/cli
+sanity init --coupon javascriptmastery2022
